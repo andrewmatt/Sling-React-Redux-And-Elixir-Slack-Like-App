@@ -14,4 +14,4 @@ Added small-features for exercise (such as User Avatar).
 ---------------------
 
 Start the app by first writing npm install (delete the json-package.lock if needed) and then npm start.
-After that, access localhost:3000/ .
+After that, access localhost:3000/ if you also opened the server from the API folder.
