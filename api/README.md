@@ -1,5 +1,13 @@
 # Sling
 
+---------------------
+
+A Slack-Like App, created using this tutorial: https://medium.com/@benhansen/lets-build-a-slack-clone-with-elixir-phoenix-and-react-part-1-project-setup-3252ae780a1
+
+Added small-features for Exercise. (such as User Avatar)
+
+---------------------
+
 To start your Phoenix app:
 
   * Install dependencies with `mix deps.get`
